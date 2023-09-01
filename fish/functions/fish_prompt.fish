@@ -1,0 +1,1 @@
+/home/Cris_dev/.local/share/omf/themes/neolambda/fish_prompt.fish
